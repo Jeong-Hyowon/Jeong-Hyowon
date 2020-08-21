@@ -19,6 +19,6 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/xoxhyoxx/)
 [![Tech blog](https://img.shields.io/badge/-Tech%20Blog-black.svg?&style=flat-square&logo=github&logoColor=white)](https://hyoveloper.tistory.com/)	
 
-#### 👋 Today 👋
+#### 👋 Visitor 👋
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jeong-Hyowon)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jeong-Hyowon%2Fgjbae1212%2Fhit-counter&count_bg=%23EB3369&title_bg=%23555555&title=Today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
