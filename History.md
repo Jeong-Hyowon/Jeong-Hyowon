@@ -16,3 +16,6 @@
 2017
 * Collection (Android) - Sungshin Women's University software competition
 * SOPT 21TH SERVER PART Completion
+
+2016
+* Admission IT department, Sungshin Women's University
