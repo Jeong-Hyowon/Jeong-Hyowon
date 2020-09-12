@@ -5,6 +5,7 @@
 * SOPT 26TH SERVER PART Completion & MVP award
 * MARU Server Lead Developer
 * SANGLE FUll Server Developer
+* Full Stack Developer Internship
 
 2019
 * Travlog (Web App : Backend) - Sungshin Women's University software competition 
