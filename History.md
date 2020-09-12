@@ -3,6 +3,8 @@
 * [CHALTTEOK-PEOPLE](http://chaltteok-pp.ga/) Web Full Stack
 * OUNCE Server Lead Developer & Grand Prize
 * SOPT 26TH SERVER PART Completion & MVP award
+* MARU Server Lead Developer
+* SANGLE FUll Server Developer
 
 2019
 * Travlog (Web App : Backend) - Sungshin Women's University software competition 
