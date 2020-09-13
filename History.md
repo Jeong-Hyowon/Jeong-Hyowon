@@ -1,6 +1,6 @@
 #### :computer: History :computer:
 2020
-* [CHALTTEOK-PEOPLE](http://chaltteok-pp.ga/) Web Full Stack
+* [CHALTTEOK-PEOPLE](http://52.79.86.164:3000/) Web Full Stack
 * OUNCE Server Lead Developer & Grand Prize
 * SOPT 26TH SERVER PART Completion & MVP award
 * MARU Server Lead Developer
