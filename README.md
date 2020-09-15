@@ -1,7 +1,5 @@
 #### ✨ Become a Junior Backend Developer! :computer: ✨ 
-#### :ok_woman: Info :ok_woman:
-* Jeong Hyowon
-[PORTFOLIO](https://jeong-hyowon.github.io/portfolio/)
+#### :ok_woman: [PORTFOLIO](https://jeong-hyowon.github.io/portfolio/) :ok_woman:
 
  #### :two_hearts: My Social Network Service :two_hearts: 
  
