@@ -1,16 +1,7 @@
 #### ✨ Become a Junior Backend Developer! :computer: ✨ 
 #### :ok_woman: Info :ok_woman:
 * Jeong Hyowon
-* Sungshin Women's University (2016 ~ )
-* Information Technology Department (Information System & Computer Engineering)
-
-#### :rainbow: Interest :rainbow:
-* Web Full Stack
-* Mobile Backend
-* AI
-
-#### :computer: History :computer:
-[Click Here:exclamation::exclamation:](https://github.com/Jeong-Hyowon/Jeong-Hyowon/blob/master/History.md)
+[PORTFOLIO](https://jeong-hyowon.github.io/portfolio/)
 
  #### :two_hearts: My Social Network Service :two_hearts: 
  
