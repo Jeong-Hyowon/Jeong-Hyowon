@@ -14,4 +14,4 @@
 
 ##### 6. [Chaltteok-people](http://52.79.86.164:3000/) : 협업 유형 테스트
 
-##### 7. [자율주행자동차를 위한 비전기반 지능형 차선이탈경고 및 앞차추돌경보 응용개발](https://github.com/Jeong-Hyowon/lane_vehicle_detection/blob/master/README.md) : 차선 인식 및 차량 인식, 차선 이탈 시 경고문구
+##### 7. [자율주행자동차를 위한 비전기반 지능형 차선이탈경고 및 앞차추돌경보 응용개발](https://github.com/Jeong-Hyowon/MyProject/blob/main/Detection.md) : 차선 인식 및 차량 인식, 차선 이탈 시 경고문구
