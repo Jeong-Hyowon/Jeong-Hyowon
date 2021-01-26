@@ -1,4 +1,4 @@
-#### Become a Junior Backend Developer! :computer:
+#### Become a Full Stack Developer! :computer:
 
 ##### 1. [Sangle](https://github.com/Jeong-Hyowon/MyProject/blob/main/SANGLE.md) : 하루 3번 , 3분 동안 글쓰기 습관 길들이는 ‘글짓기’ 플랫폼
 
