@@ -3,6 +3,7 @@
 ##### 1. [Sangle](https://github.com/Jeong-Hyowon/MyProject/blob/main/SANGLE.md) : 하루 3번 , 3분 동안 글쓰기 습관 길들이는 ‘글짓기’ 플랫폼
 
 ##### 2. [Ounce_Web](https://github.com/Jeong-Hyowon/MyProject/blob/main/Ounce_Web.md) : 나의 고양이 유형 테스트
+- [웹 앱 출시](https://ounce.co.kr/)
 
 ##### 3. [TOST](https://github.com/Jeong-Hyowon/MyProject/blob/main/TOST.md) : 토익 스피킹 트레이닝 서비스
 
