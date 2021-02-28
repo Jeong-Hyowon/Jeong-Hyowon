@@ -8,8 +8,8 @@
 ##### 3. [TOST](https://github.com/Jeong-Hyowon/MyProject/blob/main/TOST.md) : 토익 스피킹 트레이닝 서비스
 
 ##### 4. [Ounce ver.2](https://github.com/Jeong-Hyowon/MyProject/blob/main/OUNCE_java_ver.md) : 집사를 위한 똑똑한 캣푸드 기록장
-- [iOS](https://apps.apple.com/us/app/ounce-집사를-위한-똑똑한-기록장/id1535653760)
-- [Android](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
+- [iOS 앱스토어 출시](https://apps.apple.com/us/app/ounce-집사를-위한-똑똑한-기록장/id1535653760)
+- [Android 구글플레이 출시](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
 
 ##### 5. [Maru](https://github.com/Jeong-Hyowon/MyProject/blob/main/MARU.md) : 온라인 독서 토론 플랫폼
 - [앱스토어 출시](https://apps.apple.com/kr/app/%EB%A7%88%EB%A3%A8-%EC%86%8C%ED%86%B5%ED%95%98%EB%8A%94-%EB%8F%85%EC%84%9C%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80/id1530228350)
