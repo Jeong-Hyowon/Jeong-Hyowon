@@ -1,6 +1,8 @@
 #### Become a Full Stack Developer! :computer:
 
 ##### 1. [Sangle](https://github.com/Jeong-Hyowon/MyProject/blob/main/SANGLE.md) : 하루 3번 , 3분 동안 글쓰기 습관 길들이는 ‘글짓기’ 플랫폼
+- [iOS 앱스토어 출시](https://apps.apple.com/kr/app/%EC%83%9D%EA%B8%80-%EC%83%9D%EA%B0%81%EC%9D%84-%EA%B8%80%EB%A1%9C-%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C-%EC%83%9D%ED%99%9C-%EC%86%8D-%EA%B8%80%EC%A7%93%EA%B8%B0-%EC%8A%B5%EA%B4%80/id1534541433)
+- [Android 구글플레이 출시](https://play.google.com/store/apps/details?id=org.three.minutes)
 
 ##### 2. [Ounce_Web](https://github.com/Jeong-Hyowon/MyProject/blob/main/Ounce_Web.md) : 나의 고양이 유형 테스트
 - [웹 앱 출시](https://ounce.co.kr/)
